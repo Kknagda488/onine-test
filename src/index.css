@@ -1,0 +1,32 @@
+.bt {
+    background-color: rgba(236, 125, 236, 0.975);
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  
+  .store {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    margin: 20px;
+    font-size: 23px;
+  
+  }
+  .store span {
+    color: purple;
+    /* font-size: 4rem ; */
+  }
+  .cartCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 14px;
+    border-radius: 5px;
+  }
+  
